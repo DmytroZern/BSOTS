@@ -82,7 +82,7 @@ weapon
 		dam_terra						0.00000001
 	}
 
-	dam_est			20	// approx 2x guass
+	dam_est			20	// approx 2x gauss
 
 	rating_frate	10
 	rating_dam		2
