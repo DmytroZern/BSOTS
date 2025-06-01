@@ -7,7 +7,7 @@ weapon
 
 	model1						barrel_l1_gatling.x
 
-	turretclass					missile
+	turretclass					standard
 	turretsize					large
 	munitionsize				medium
 
@@ -34,8 +34,8 @@ weapon
 	fc_controllable				true
 	fc_holdsfire				true
 
-	range						2000 // 1050
-	range_planet				2000
+	range						1000
+	range_planet				1000
 
 	bolt
 	{
@@ -53,15 +53,15 @@ weapon
 		{
 			pb_range		500
 			pb_range_dev	2
-			pb_range_dam	360			// 2x heavy standard
+			pb_range_dam	90			
 
-			eff_range		1200
+			eff_range		750
 			eff_range_dev	3
-			eff_range_dam	360
+			eff_range_dam	90
 
-			max_range		2000
+			max_range		1000
 			max_range_dev	3
-			max_range_dam	360
+			max_range_dam	90
 		}
 
 		ricochet_mod					-1.4	// small 1.2, med 1.3, large 1.4
@@ -76,7 +76,7 @@ weapon
 		dam_terra						0.000015
 	}
 
-	dam_est			320		// 2x Heavy Ballistic
+	dam_est			90		// 6x light autocanon. 1.5x mass driver
 
 	rating_frate	10
 	rating_dam		5
