@@ -9,7 +9,7 @@ weapon
 	model2						barrel_m1_gatling.x
 	turretmodel2				turret_m1standard.x
 
-	turretclass					missile
+	turretclass					standard
 	turretsize					medium
 	munitionsize				small
 
@@ -36,7 +36,7 @@ weapon
 	fc_controllable				true
 	fc_holdsfire				true
 
-	range						1200	// 780
+	range						750	// 780
 	range_planet				1200
 
 	bolt
@@ -52,15 +52,15 @@ weapon
 
 		rangetable
 		{
-			pb_range		300
+			pb_range		250
 			pb_range_dev	1
 			pb_range_dam	60			// approx 2x mass driver
 
-			eff_range		800
+			eff_range		500
 			eff_range_dev	2
 			eff_range_dam	60
 
-			max_range		1200
+			max_range		750
 			max_range_dev	2
 			max_range_dam	60
 		}
