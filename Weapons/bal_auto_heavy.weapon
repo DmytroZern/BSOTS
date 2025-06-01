@@ -53,15 +53,15 @@ weapon
 		{
 			pb_range		500
 			pb_range_dev	2
-			pb_range_dam	90			
+			pb_range_dam	180			
 
 			eff_range		750
 			eff_range_dev	3
-			eff_range_dam	90
+			eff_range_dam	180
 
 			max_range		1000
 			max_range_dev	3
-			max_range_dam	90
+			max_range_dam	180
 		}
 
 		ricochet_mod					-1.4	// small 1.2, med 1.3, large 1.4
