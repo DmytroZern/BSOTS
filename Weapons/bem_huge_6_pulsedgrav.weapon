@@ -7,7 +7,7 @@ weapon
 	model1						barrel_l3_heavydriver.x
 	turretmodel1				turret_l1standard.x
 
-	turretclass					projector
+	turretclass					standard
 	turretsize					large
 
 	requires					WEP_DualPulGrvBm
