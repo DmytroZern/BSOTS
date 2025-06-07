@@ -29,7 +29,7 @@ shipsection
 		torque_pitch		5e+8
 		torque_roll			5e+8
 
-		speed				201.7125
+		speed				120
 		rotspeed			55
 	}
 
