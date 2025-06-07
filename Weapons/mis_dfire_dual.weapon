@@ -10,7 +10,7 @@ weapon
 	model2						barrel_l2_rackmissile.x
 	turretmodel2				turret_l2rackmissile.x
 
-	turretclass					missile
+	turretclass					standard
 	turretsize					medium
 
 	requires					WEP_DFMsl
