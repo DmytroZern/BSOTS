@@ -6891,12 +6891,12 @@ Frame Root {
         0,
         0,
         0;;
-        Material PDX9___Default {
+        Material Material__1764_3Sub0 {
            1.000000; 1.000000; 1.000000; 1.000000;;
             1.960784;
            0.000000; 0.000000; 0.000000;;
            0.000000; 0.000000; 0.000000;;
-          TextureFilename {"weapon_3.dds";}
+          TextureFilename {"weapon4.dds";}
         }
       } // End of Group material list
       MeshVertexColors { // Group vertex colors
