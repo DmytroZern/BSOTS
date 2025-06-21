@@ -13449,7 +13449,7 @@ Frame Root {
         2681; 1.000000; 1.000000; 1.000000; 1.000000;;;
       } // End of Group vertex colors
     } // End of Group mesh
-    Frame Muzzle1 {
+    Frame Muzzle {
       FrameTransformMatrix {
          1.000000, 0.000000, 0.000000, 0.000000,
         -0.000000, 1.000000, 0.000000, 0.000000,
@@ -13457,7 +13457,7 @@ Frame Root {
         -1.498885,12.129000,-0.031840, 1.000000;;
       }
     } // End of Muzzle1
-    Frame Muzzle2 {
+    Frame Muzzle {
       FrameTransformMatrix {
          1.000000, 0.000000, 0.000000, 0.000000,
         -0.000000, 1.000000, 0.000000, 0.000000,
@@ -13465,7 +13465,7 @@ Frame Root {
          0.001115,12.129000,-0.031840, 1.000000;;
       }
     } // End of Muzzle2
-    Frame Muzzle3 {
+    Frame Muzzle {
       FrameTransformMatrix {
          1.000000, 0.000000, 0.000000, 0.000000,
         -0.000000, 1.000000, 0.000000, 0.000000,
