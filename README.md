@@ -1,26 +1,26 @@
 # Bastard Sword of the Stars
 
 - [Bastard Sword of the Stars](#bastard-sword-of-the-stars)
-	- [Major Rules Changes](#major-rules-changes)
-		- [The technology tree](#the-technology-tree)
-		- [Weapon changes](#weapon-changes)
-		- [CnC](#cnc)
-		- [Ships](#ships)
-		- [Armor](#armor)
-		- [Shields](#shields)
-		- [Cloaking](#cloaking)
-		- [General](#general)
-		- [Orbital bombardment](#orbital-bombardment)
-		- [Planetary Invasion](#planetary-invasion)
-		- [Orbital Stations](#orbital-stations)
-		- [World Growth \& Colonization](#world-growth--colonization)
-		- [Artificial Intelligence](#artificial-intelligence)
-		- [Drones](#drones)
-		- [Flag Ships](#flag-ships)
-		- [Trade](#trade)
-		- [Racial Affinity](#racial-affinity)
-	- [Configuration Options](#configuration-options)
-	- [Credits](#credits)
+  - [Major Rules Changes](#major-rules-changes)
+    - [The technology tree](#the-technology-tree)
+    - [Weapon changes](#weapon-changes)
+    - [CnC](#cnc)
+    - [Ships](#ships)
+    - [Armor](#armor)
+    - [Shields](#shields)
+    - [Cloaking](#cloaking)
+    - [General](#general)
+    - [Orbital bombardment](#orbital-bombardment)
+    - [Planetary Invasion](#planetary-invasion)
+    - [Orbital Stations](#orbital-stations)
+    - [World Growth \& Colonization](#world-growth--colonization)
+    - [Artificial Intelligence](#artificial-intelligence)
+    - [Drones](#drones)
+    - [Flag Ships](#flag-ships)
+    - [Trade](#trade)
+    - [Racial Affinity](#racial-affinity)
+  - [Configuration Options](#configuration-options)
+  - [Credits](#credits)
 
 ## Major Rules Changes
 
@@ -173,3 +173,4 @@ Eleahen - Custom maps I love to play on!
 pRev - Ultimate Starnames collection.
 Valerian - Non-flashing note indicators.
 Drages - Icon art & ideas.
+Zern - Bug fixes and assistance with long-term maintenance.
