@@ -2,6 +2,8 @@
 
 - [Bastard Sword of the Stars](#bastard-sword-of-the-stars)
   - [Credits](#credits)
+  - [Recent Fixes](#recent-fixes)
+    - [4.0.3 - 4.0.6](#403---406)
   - [Major Rules Changes](#major-rules-changes)
     - [The technology tree](#the-technology-tree)
     - [Weapon changes](#weapon-changes)
@@ -40,10 +42,19 @@ Much appreciation to all of the authors of various mods, contributors to BSOTS, 
 | Drages         | Icon art & ideas.                                                                                                   |
 | Zern           | Bug fixes and assistance with long-term maintenance.                                                                |
 
+## Recent Fixes
+
+### 4.0.3 - 4.0.6
+Fixes from @Zern and community prodding:
+- Fixed Hiver Triple Barrel Huge Turret model
+- Dumbfire rockets and stormers should be able to fire normally again.
+- Nerfed range, accuracy and damage of autocanons.
+- Normalized police ships speed to 120.
+
 ## Major Rules Changes
 
 ### The technology tree
-Is substantially reorganized to make it more interesting and add new technologies and options to the game.
+- Is substantially reorganized to make it more interesting and add new technologies and options to the game.
 - Pace of technology acquisition in the middle and late game is slowed compared to vanilla.
 - Racial technologies are always researchable by that race (e.g. Tarkas always have access to Living Steel.)
 - Fusion, and even more so Antimatter ages, are much more expensive tiers, forcing players and AIs to explore more options in the current age rather than trying to "rush antimatter."
@@ -61,12 +72,12 @@ Is substantially reorganized to make it more interesting and add new technologie
 - This effectively DOUBLES the firepower of a given mount (you must redesign your ship to take advantage of this technology).
 
 ### CnC
-Is completely revamped.
+- Is completely revamped.
 - Each CnC tier is available for any sized ship.
 - So you can control the same number of ships with basic CnC destroyer as basic CnC cruiser.
 
 ### Ships
-Are tougher.
+- Are tougher.
 - It takes longer to build them, and will tie up your worlds with construction duties longer.
 - This will reduce your income, as well as force you to have to build up your fleets proactively, instead of reactively.
 - With intelligent management and judicious use of retreat, you should be able to keep your ships alive much longer.
@@ -74,17 +85,22 @@ Are tougher.
 - Ship Yards (formerly Repair Stations) offer a +25% ship construction rate bonus.
 
 ### Armor
-- Two levels of deflectives - which are good against ballistics.
-- Two levels of reflectives - which are good against pulsed lasers and beamers.
-- Fusion age opens up two levels of hull reinforcements - which simply make your hulls stronger but do not offer any special defenses against lasers or ballistics, and is not considered armor, so can be combined with either of the above true armors.
+- Two levels of deflectives
+  - Good against ballistics
+- Two levels of reflectives
+  - Good against pulsed lasers and beamers
+- Fusion age opens up two levels of hull reinforcements
+  - Makes your hulls stronger
+  - Does not offer any special defenses against lasers or ballistics
+  - Can be combined with armor
 
 ### Shields
-There are two lines of shields plus the hemispherical shields:
-- Two levels of "quick-recharging" shields, which offer fast shield cycles but a quarter of the protection of heavy shields.
-- Two levels of "heavy" shields, which offer slow regeneration cycles but four times the stopping power of the lighter version of shields.
+- There are two lines of shields plus the hemispherical shields:
+  - Two levels of "quick-recharging" shields, which offer fast shield cycles but a quarter of the protection of heavy shields.
+  - Two levels of "heavy" shields, which offer slow regeneration cycles but four times the stopping power of the lighter version of shields.
 
 ### Cloaking
-- is available relatively early.  You have been warned!
+- Is available relatively early.  You have been warned!
 
 ### General
 - You start with standard civilian / support ship construction, and can add "Combat Construction" and "Large Construction" and "Huge Construction".
@@ -98,11 +114,10 @@ Is majorly nerfed.
 - Towards Antimatter it's more effective, but you'll risk destroying the worlds in the process.
 
 ### Planetary Invasion
-Plays a more core role in conquest due to the nerfed bombardment, essentially, invasion is more efficient in many cases.
-
+- Plays a more core role in conquest due to the nerfed bombardment, essentially, invasion is more efficient in many cases.
 
 ### Orbital Stations
-Are somewhat cheaper, require less maintenance, and are available earlier in the game.
+- Are somewhat cheaper, require less maintenance, and are available earlier in the game.
 - Depending on the conditions of the games you set up, you should be able to build up your core worlds more extensively into fast-ship production centers or trade hubs.
 - They require 250k Imperial plus 1k civilian population so you can build them sooner on a developing world compared to vanilla.
 - You are still limited to 4 stations per world, maximum, subject to total population at each world.
@@ -129,23 +144,13 @@ There are two additional types of drones:
 - Mine Layer Drones
 
 ### Flag Ships
-You can build multiple flag ships once you've research Flag Command
-- They are bank-breaking expensive, however, so you're not guaranteed to be able to afford even one.
+- You can build multiple flag ships once you've research Flag Command.
+- They are horribly expensive, however, so you're not guaranteed to be able to afford even one.
 
 ### Trade
-- There aren't any mega-freighters - meaning you only need to set up your trade routes ONCE per game.
-- Each trade route requires 1 freighter to operate it.  So 1 route = 1 freighter (either Q or standard).
-- Trade sectors are 50% larger - so there are fewer of them.
-  - This means you'll have to control more space to setup your trade.
-  - They'll be easier for enemies to disrupt.
-  - You will need to manage fewer of them.
-- Trade Stations provide one maintainance-free trade route each.
-- Trade Stations boost trade income +15%.
-- Overall, trade will offer a smaller % of your income compred to vanilla.
-  - This is to help balance out the other changes that will boost your overall income.
+- Has been removed from the game due to its tedium and myriad bugs and exploits.
 
 ### Racial Affinity
-
 - Hiver: mines, drones, COL, missiles (esp. standard and small), ballistics (esp. bursters), armor, stealth, plasma torpedoes
 - Humans: lasers, missiles, emitters, drones, photon torpedoes, heavy beams
 - Liir: lasers, plasma cannons, emitters, quick shields, energy torpedoes
