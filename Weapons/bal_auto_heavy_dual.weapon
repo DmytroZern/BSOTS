@@ -35,8 +35,8 @@ weapon
 	fc_controllable				true
 	fc_holdsfire				true
 
-	range						1000 // 1050
-	range_planet				2000
+	range						1000
+	range_planet				1000
 
 	bolt
 	{
@@ -54,7 +54,7 @@ weapon
 		{
 			pb_range		500
 			pb_range_dev	2
-			pb_range_dam	270			
+			pb_range_dam	270
 
 			eff_range		750
 			eff_range_dev	3
@@ -77,7 +77,7 @@ weapon
 		dam_terra						0.000015
 	}
 
-	dam_est					// 
+	dam_est			202		// 1.5x auto heavy driver
 
 	rating_frate	10
 	rating_dam		7

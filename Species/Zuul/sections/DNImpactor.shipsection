@@ -109,7 +109,7 @@ shipsection
 
 	bank
 	{
-		turretclass projector
+		turretclass standard
 		turretsize large
 
 		mount

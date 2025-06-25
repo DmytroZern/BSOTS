@@ -1,6 +1,6 @@
 Fonts used in tech tree:
 ------------------------
-Title: Calibri 48, bold, red
+Title.pdn: Showcard Gothic 40, dark red
 Tech Roots: Impact 18, white
 Costs: Calibri 12 bold, yellow
 
