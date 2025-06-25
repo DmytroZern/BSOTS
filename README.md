@@ -3,7 +3,8 @@
 - [Bastard Sword of the Stars](#bastard-sword-of-the-stars)
   - [Credits](#credits)
   - [Recent Fixes](#recent-fixes)
-    - [4.0.3 - 4.0.6](#403---406)
+    - [4.0.6](#406)
+    - [4.0.5](#405)
   - [Major Rules Changes](#major-rules-changes)
     - [The technology tree](#the-technology-tree)
     - [Weapon changes](#weapon-changes)
@@ -44,12 +45,16 @@ Much appreciation to all of the authors of various mods, contributors to BSOTS, 
 
 ## Recent Fixes
 
-### 4.0.3 - 4.0.6
-Fixes from @Zern and community prodding:
-- Fixed Hiver Triple Barrel Huge Turret model
-- Dumbfire rockets and stormers should be able to fire normally again.
-- Nerfed range, accuracy and damage of autocanons.
-- Normalized police ships speed to 120.
+### 4.0.6
+- Improved icons for Photonic Torps I, II and III
+- Changed all DN sections except "Dominator" to use Standard Large mounts instead of Projectors due to bug where other "huge" class weapons were not available
+- Fixed planet range of bal_auto_heavy weapons
+
+### 4.0.5
+- Fixed Hiver Triple Barrel Huge Turret model (H/T @Zern)
+- Dumbfire rockets and stormers should be able to fire normally again (H/T @Zern)
+- Nerfed range, accuracy and damage of autocanons (H/T @Zern)
+- Normalized police ships speed to 120 (H/T @Zern)
 
 ## Major Rules Changes
 

@@ -53,7 +53,7 @@ weapon
 		{
 			pb_range		500
 			pb_range_dev	2
-			pb_range_dam	270			
+			pb_range_dam	270
 
 			eff_range		750
 			eff_range_dev	3

@@ -107,7 +107,7 @@ bank
 
 	bank
 	{
-		turretclass projector
+		turretclass standard
 		turretsize large
 
 		mount
