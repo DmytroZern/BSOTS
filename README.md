@@ -189,7 +189,7 @@ If you really want to switch around, make sure you have the correct file install
 If you switch them up, your game will become very odd, and you may crash the game.
 
 ## External Links
-You can stillod the special effects using Kerberos' Apollo editor:
+You can still mod the special effects using Kerberos' Apollo editor:
 [Apollo Fx Editor](url=https://www.mediafire.com/file/uotqxbabczk5dpz/Apollo.7z/file)
 
 And you can still use the Mod Manager (place it in same folder with the game binary, and then execute it instead of the normal game launch):
