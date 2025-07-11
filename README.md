@@ -24,6 +24,7 @@
     - [Trade](#trade)
     - [Racial Affinity](#racial-affinity)
   - [Configuration Options](#configuration-options)
+  - [External Links](#external-links)
 
 ## Credits
 
@@ -186,3 +187,10 @@ I have included a couple of alternate game options (these are under TechTree fol
 Make sure you stick with the same one for the duration of a game.
 If you really want to switch around, make sure you have the correct file installed as "MasterTechList.tech" when you load and play any specific game (same one you used to create the game with).
 If you switch them up, your game will become very odd, and you may crash the game.
+
+## External Links
+You can stillod the special effects using Kerberos' Apollo editor:
+[Apollo Fx Editor](url=https://www.mediafire.com/file/uotqxbabczk5dpz/Apollo.7z/file)
+
+And you can still use the Mod Manager (place it in same folder with the game binary, and then execute it instead of the normal game launch):
+[Mod Manager](url=https://www.mediafire.com/file/dl5vjexx29z3dmd/modmanager.zip/file)
